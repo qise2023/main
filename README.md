@@ -3,7 +3,7 @@ Task 1 (2.1) - quantum authentication/network testbed.  Paul is leading. Current
 Task 2 (2.2) - quantum algorithm and speed up, Andrew is leading (with his doc student). Eric and Paul will also explore.<br>
 Task 3 (2.3) - edu. Dave is leading. Eric/Dave to work on curriculum development and Dave on workforce development.<br>
 
-<B>PAPERS</B>
-https://arxiv.org/abs/2308.06572
-https://arxiv.org/abs/1210.3003
-https://arxiv.org/abs/2310.00899
+<b>PAPERS</b>
+An Efficient Quantum Factoring Algorithm (2023) https://arxiv.org/abs/2308.06572 <br>
+Recovering the Period in Shor's Algorithm with Gauss' Algorithm for Lattice Basis Reduction (2013) https://arxiv.org/abs/1210.3003 <br>
+Optimizing Space in Regev's Factoring Algorithm (2023) https://arxiv.org/abs/2310.00899 <br>

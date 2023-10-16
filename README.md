@@ -2,3 +2,8 @@
 Task 1 (2.1) - quantum authentication/network testbed.  Paul is leading. Currently Paul has a postdoc and two students. Dave can also be involved. <br>
 Task 2 (2.2) - quantum algorithm and speed up, Andrew is leading (with his doc student). Eric and Paul will also explore.<br>
 Task 3 (2.3) - edu. Dave is leading. Eric/Dave to work on curriculum development and Dave on workforce development.<br>
+
+<B>PAPERS</B>
+https://arxiv.org/abs/2308.06572
+https://arxiv.org/abs/1210.3003
+https://arxiv.org/abs/2310.00899

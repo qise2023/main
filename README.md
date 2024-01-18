@@ -13,3 +13,7 @@ https://arxiv.org/abs/1210.3003
 Optimizing Space in Regev's Factoring Algorithm (2023) <br>
 https://arxiv.org/abs/2310.00899 <
 
+============= year 2024 ===================
+q trestbed
+q algorithm
+edu

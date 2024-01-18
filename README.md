@@ -15,10 +15,10 @@ https://arxiv.org/abs/2310.00899 <br>
 
 ============= year 2024 =================== <br>
 q trestbed <br>
-install a q cryptor. Now q keys generated from one QKD 9Alice) are encrypted and transmitted/shared with the other party (Bob). <br>
+install a q cryptor. Now q keys generated from one QKD 9Alice) are encrypted and transmitted/shared with the other party (Bob). <br><br>
 q algorithm <br>
 Andrew:  
-verification of quantum networks. quantum position verification.  <br>
+verification of quantum networks. quantum position verification.  <br><br>
 edu <br>
 Finalize excel document to determine 1) #of courses for a BS q track and 2) names of each course. <br>
 Existing courses:
@@ -28,5 +28,5 @@ cosc 686 quantum algorithms and architectures,
 cosc 711, quantum algorithms,
 cosc 724 PQC <br>
 
-Course to be developed: see excel <br>
+Course to be developed: see excel <br><br>
 

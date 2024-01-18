@@ -17,7 +17,8 @@ https://arxiv.org/abs/2310.00899 <br>
 q trestbed <br>
 install a q cryptor. Now q keys generated from one QKD 9Alice) are encrypted and transmitted/shared with the other party (Bob). <br>
 q algorithm <br>
-Andrew <br>
+Andrew:  
+verification of quantum networks. quantum position verification.  <br>
 edu <br>
 Finalize excel document to determine 1) #of courses for a BS q track and 2) names of each course. <br>
 

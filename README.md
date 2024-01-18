@@ -11,9 +11,13 @@ Recovering the Period in Shor's Algorithm with Gauss' Algorithm for Lattice Basi
 https://arxiv.org/abs/1210.3003 
 
 Optimizing Space in Regev's Factoring Algorithm (2023) <br>
-https://arxiv.org/abs/2310.00899 <
+https://arxiv.org/abs/2310.00899 <br>
 
-============= year 2024 ===================
-q trestbed
-q algorithm
-edu
+============= year 2024 =================== <br>
+q trestbed <br>
+install a q cryptor. Now q keys generated from one QKD 9Alice) are encrypted and transmitted/shared with the other party (Bob). <br>
+q algorithm <br>
+Andrew <br>
+edu <br>
+Finalize excel document to determine 1) #of courses for a BS q track and 2) names of each course. <br>
+

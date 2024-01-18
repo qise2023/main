@@ -21,4 +21,12 @@ Andrew:
 verification of quantum networks. quantum position verification.  <br>
 edu <br>
 Finalize excel document to determine 1) #of courses for a BS q track and 2) names of each course. <br>
+Existing courses:
+cosc 386, 486, 586,
+cosc 614 cryptology and cryptography,
+cosc 686 quantum algorithms and architectures,
+cosc 711, quantum algorithms,
+cosc 724 PQC <br>
+
+Course to be developed: see excel <br>
 

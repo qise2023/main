@@ -13,6 +13,8 @@ https://arxiv.org/abs/1210.3003
 Optimizing Space in Regev's Factoring Algorithm (2023) <br>
 https://arxiv.org/abs/2310.00899 <br>
 
+Padlet: https://padlet.com/paul1398/qise-nsf-2023-px215z00zglgepe8
+
 ============= year 2024 =================== <br>
 q trestbed <br>
 install a q cryptor. Now q keys generated from one QKD 9Alice) are encrypted and transmitted/shared with the other party (Bob). <br><br>
